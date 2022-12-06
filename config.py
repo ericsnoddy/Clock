@@ -1,0 +1,12 @@
+RES = WIDTH, HEIGHT = 1200, 675
+FPS = 20
+HALF_W, HALF_H = WIDTH // 2, HEIGHT // 2
+RADIUS = HALF_H - 50
+CLOCK_EDGE_W = 5
+SEC_HAND_W = 3
+FONT = 'Verdana'
+DGTL_FONTSIZE = 60
+CLOCK_COLOR = 'darkslategray'
+SEC_HAND_COLOR = 'magenta'
+MIN_HAND_COLOR = 'black'
+HOUR_HAND_COLOR = 'black'
